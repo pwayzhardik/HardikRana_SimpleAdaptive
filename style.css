@@ -2,7 +2,7 @@
 html{
 	background:white;
 }
-@media (min-width:401px) and (max-width:2000px) {
+@media (min-width:381px) and (max-width:2000px) {
 body {
 	width:600px;
 	height:auto;
@@ -50,7 +50,7 @@ main{
 	padding-left:30px;
 	padding-right:30px;
 	width:600px;
-	height:790px;
+	height:830px;
 }
 main h2{
 	width:540px;
@@ -145,10 +145,10 @@ footer p{
 }
 }
 
-		@media (min-width:70px) and (max-width:400px) {
+		@media (min-width:80px) and (max-width:380px) {
 		
 			body {
-						width:300px;
+						width:310px;
 						height:auto;
 						margin-top:0;
 						margin-bottom:0;
@@ -159,7 +159,7 @@ footer p{
 					}
 
 					.header{
-						width:300px;
+						width:310px;
 						height:150px;
 						border-bottom:1px solid #931420;
 						padding-top:.5em;
@@ -194,7 +194,7 @@ footer p{
 					main{
 						padding-left:15px;
 						padding-right:15px;
-						width:300px;
+						width:310px;
 						height:1000px;
 					}
 					main h2{
@@ -236,13 +236,13 @@ footer p{
 					}
 					main .image1 {
 						margin-top:-30px;
-						width:300px;
+						width:310px;
 						height:160px;
 						float:left;	
 					}
 					.image1 a{
 						float:right;
-						padding-right:250px;
+						padding-right:200px;
 						margin-top:-10px;
 					}
 					.image1 img{
@@ -250,13 +250,13 @@ footer p{
 						margin-top:-5px;
 					}
 					main .image2 {
-						width:300px;
-						height:195px;
+						width:310px;
+						height:160px;
 						float:left;	
 					}
 					.image2 a{
 						float:right;
-						padding-right:229px;
+						padding-right:158px;
 						margin-top:-10px;
 					}
 					.image2 img{
@@ -264,13 +264,13 @@ footer p{
 						margin-top:-5px;
 					}
 					main .image3 {
-						width:300px;
+						width:310px;
 						float:left;	
 						margin-top:-18px;
 					}
 					.image3 a{
 						float:right;
-						padding-right:262px;
+						padding-right:225px;
 						margin-top:-10px;
 					}
 					.image3 img{
